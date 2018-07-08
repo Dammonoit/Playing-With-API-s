@@ -1,0 +1,6 @@
+consumer_key='1lWPwOmckwxxCwNwS5NwatQtX'
+consumer_secret='55BM7qAezLT1ovKUfb47OYrtYV0jX7AuDInY5cuEXK5BtXSVri'
+access_token='2494253618-LhOs6osOX0FQvXTS8hJIz3ZQwEV75gBl2PFj1vg'
+access_token_secret='3XdCaZz1McEtnCCEYwxFwVICL0UEsfhdIiKDSGMe8OyF5'
+
+
