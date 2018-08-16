@@ -25,14 +25,14 @@ The objective of this API is to make NASA data, including imagery, eminently acc
 <br />
 
 # **Tweepy API** 
-<br />
+
 Tweepy is open-sourced, hosted on GitHub and enables Python to communicate with Twitter platform and use its API.
 Tweepy supports accessing Twitter via Basic Authentication and the newer method, OAuth. Twitter has stopped accepting Basic Authentication so OAuth is now the only way to use the Twitter API.
 [TWEEPY_API](http://www.tweepy.org/)
 <br />
 
 # **Open Weather API**
-<br />
+
 With this API Access current weather data for any location including over 200,000 cities. Current weather is frequently updated based on global models and data from more than 40,000 weather stations
 Data is available in JSON, XML, or HTML format.
 [OPEN_WEATHER_API](https://openweathermap.org/api)
