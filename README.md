@@ -19,7 +19,8 @@ This repository is my experiment for learning purposes on some API's delivered b
 <br />
 
 # **NASA API**
-The objective of this API is to make NASA data, including imagery, eminently accessible to application developers. 
+The objective of this API is to make NASA data, including imagery, eminently accessible to application developers. <br />
+
 [NASA_API](https://api.nasa.gov/)
 
 <br />
@@ -27,12 +28,12 @@ The objective of this API is to make NASA data, including imagery, eminently acc
 # **Tweepy API** 
 
 Tweepy is open-sourced, hosted on GitHub and enables Python to communicate with Twitter platform and use its API.
-Tweepy supports accessing Twitter via Basic Authentication and the newer method, OAuth. Twitter has stopped accepting Basic Authentication so OAuth is now the only way to use the Twitter API.
+Tweepy supports accessing Twitter via Basic Authentication and the newer method, OAuth. Twitter has stopped accepting Basic Authentication so OAuth is now the only way to use the Twitter API.<br />
 [TWEEPY_API](http://www.tweepy.org/)
 <br />
 
 # **Open Weather API**
-
 With this API Access current weather data for any location including over 200,000 cities. Current weather is frequently updated based on global models and data from more than 40,000 weather stations
-Data is available in JSON, XML, or HTML format.
+Data is available in JSON, XML, or HTML format.<br />
+
 [OPEN_WEATHER_API](https://openweathermap.org/api)
